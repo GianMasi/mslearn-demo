@@ -1,2 +1,4 @@
-a="Stringa da Stampare a Video"
-print(a)
+a="Stringa da Stampare"
+b="  "  # spazio tra le stringhe
+c="Seconda stringa da concatenare"
+print(a+b+c)
